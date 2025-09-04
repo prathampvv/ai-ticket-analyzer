@@ -1,0 +1,20 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore output files
+analyzed_tickets.csv
+customer_analysis.csv
+ai_support_analysis.png
+
+# Ignore Jupyter checkpoints (if any)
+.ipynb_checkpoints/
+
+analyzed_tickets.csv
+customer_analysis.csv
+ai_support_analysis.png
