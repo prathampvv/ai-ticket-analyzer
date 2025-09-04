@@ -26,7 +26,7 @@ This project analyzes customer support emails using AI + ML to extract insights 
     pip install -r requirements.txt
 
 ## 📂File Structure:
-📁 project-root
+1. 📁 project-root
 │── main.py                     # Main script (run this file)
 │── requirements.txt             # Python dependencies
 │── README.md                    # Project documentation
