@@ -26,14 +26,14 @@ This project analyzes customer support emails using AI + ML to extract insights 
     pip install -r requirements.txt
 
 ## 📂File Structure:
-1. 📁 project-root
-│── main.py                     # Main script (run this file)
-│── requirements.txt             # Python dependencies
-│── README.md                    # Project documentation
-│── 68b1acd44f393_Sample_Support_Emails_Dataset.csv   # Input dataset
-│── analyzed_tickets.csv         # (Generated) Ticket analysis
-│── customer_analysis.csv        # (Generated) Customer insights
-│── ai_support_analysis.png      # (Generated) Visualization charts
+### 📁 project-root
+1. │── main.py                     # Main script (run this file)
+2. │── requirements.txt             # Python dependencies
+3. │── README.md                    # Project documentation
+4. │── 68b1acd44f393_Sample_Support_Emails_Dataset.csv   # Input dataset
+5. │── analyzed_tickets.csv         # (Generated) Ticket analysis
+6. │── customer_analysis.csv        # (Generated) Customer insights
+7. │── ai_support_analysis.png      # (Generated) Visualization charts
 
 ## ▶️ Running the Project:
 1. Place your dataset CSV file in the project folder.:
