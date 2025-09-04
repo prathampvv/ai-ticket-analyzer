@@ -1,8 +1,8 @@
-* 🧠 AI-Powered Support Ticket Analyzer
+# 🧠 AI-Powered Support Ticket Analyzer
 
 This project analyzes customer support emails using AI + ML to extract insights like sentiment, priority, clustering, and customer risk scoring. It also generates business recommendations and visualizations automatically.
 
-** 🚀 Features
+## 🚀 Features
 
 Data Loading: Reads support emails from a CSV file (68b1acd44f393_Sample_Support_Emails_Dataset.csv).
 Sentiment Analysis: Detects positive, neutral, and negative tickets.
@@ -17,7 +17,7 @@ Outputs Saved:
     customer_analysis.csv → customer insights
     ai_support_analysis.png → visualizations
 
-** 🛠 Installation
+## 🛠 Installation
 Create and activate a virtual environment (recommended):
     python -m venv venv
     source venv/bin/activate     # On Mac/Linux
@@ -25,7 +25,7 @@ Create and activate a virtual environment (recommended):
 Install all dependencies:
     pip install -r requirements.txt
 
-** 📂File Structure:
+## 📂File Structure:
 📁 project-root
 │── main.py                     # Main script (run this file)
 │── requirements.txt             # Python dependencies
@@ -35,7 +35,7 @@ Install all dependencies:
 │── customer_analysis.csv        # (Generated) Customer insights
 │── ai_support_analysis.png      # (Generated) Visualization charts
 
-** ▶️ Running the Project:
+## ▶️ Running the Project:
 Place your dataset CSV file in the project folder.:
     (Default: 68b1acd44f393_Sample_Support_Emails_Dataset.csv)
 Run the analysis with:
@@ -45,13 +45,13 @@ Outputs generated:
     customer_analysis.csv 
     ai_support_analysis.png
 
-** 🤖 AI Techniques Used:
+## 🤖 AI Techniques Used:
     Natural Language Processing (NLP) → TF-IDF, Sentiment (TextBlob)
     Machine Learning → KMeans clustering, similarity detection
     Predictive Insights → Risk scoring, escalation suggestions
     Visualization → Matplotlib + Seaborn
 
-** 👨‍💻 Author
+## 👨‍💻 Author
 
 Pratham Verma
 BTech CSE, VIT Vellore
