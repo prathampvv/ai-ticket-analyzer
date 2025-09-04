@@ -51,6 +51,9 @@ This project analyzes customer support emails using AI + ML to extract insights 
 3. Predictive Insights → Risk scoring, escalation suggestions
 4. Visualization → Matplotlib + Seaborn
 
+## Example output:
+[View Example Output](https://drive.google.com/file/d/1-UT5MPWwzQhzPbJ4gnDkW_971CTjtlWp/view?usp=sharing)
+
 ## 👨‍💻 Author
 
 Pratham Verma
